@@ -1,8 +1,9 @@
-[![« Вернуться на главную](./assets/back_button_new.png)](./readme.md) 
+[![« Вернуться на главную](./assets/back_button_new.png)](./readme.md) [![« Вернуться на главную](./assets/go_button_new.png)](./readme.md) 
 
-# Краткая история 
+## Краткая история
 
 ---
+
 ![](./assets/linus-small.jpeg)
 
 > ***„ Меня зовут Линус и я ваш бог“***
