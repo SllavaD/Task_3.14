@@ -1,2 +1,2 @@
-[![Вернуться назад](./assets/button_back.png)](./info.md)[![На главную](./assets/button_home.png)](./readme.md) 
+[![Вернуться назад](./assets/button_back.png)](./wfm.md)[![На главную](./assets/button_home.png)](./readme.md) [![Вперед](./assets/button_forward.png)](./info.md) 
 
