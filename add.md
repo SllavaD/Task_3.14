@@ -1,4 +1,6 @@
-[<< Вернуться на главную](./readme.md)
+[![Вернуться назад](./assets/button_back.png)](./int.md)[![На главную](./assets/button_home.png)](./readme.md)[![Вперед](./assets/button_forward.png)](./commit.md) 
+
+
 
 ## Команда git add
 

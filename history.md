@@ -1,4 +1,4 @@
-[![« Вернуться на главную](./assets/back_button_new.png)](./readme.md)[![« Вернуться на главную](./assets/go_button_new.png)](./int.md) 
+[![Вернуться назад](./assets/button_back.png)](./readme.md)[![Вперед](./assets/button_forward.png)](./int.md) 
 
 ## Краткая история
 
