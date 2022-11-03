@@ -10,7 +10,7 @@ LICENSE: [MIT](./license.md)
 
 1. Краткая [история](./history.md) 
 2. Основные функции:
-    * команда **"[git int](./int.md)"**
+    * команда **"[git init](./int.md)"**
     * команда **"[git add](./add.md)"**
     * команда **"[git commit](./commit.md)"**
     * команда **"[git clone](./clone.md)"**
